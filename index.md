@@ -1,4 +1,4 @@
-> This is a link to our pitch for 
+> This is intended for Rockwell Automation & Sargento as part of the [Reverse Pitch MKE](https://www.mketech.org/reverse-pitch-mke/)
 
 ## Team Summary 
 
