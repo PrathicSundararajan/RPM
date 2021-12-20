@@ -1,6 +1,10 @@
-## Pitch to Rockwell Automation's Challenge by Team Oracle
+# Team Oracle's Pitch for Leveraging Raw Material Data for Prescriptive Manufacturing
 
-### Markdown
+## Team Summary 
+
+### Introduce your company and how it will be presented to consumers. If your company is already established, please explain how the product/solution you are pitching for this challenge integrates into your current branding.
+Delphi, our company, is yet to be founded but we would focus on applying our skill set in Machine Learning and Data Analysis onto various fields through key partnerships that would offer domain knowledge. Our team in the past has been able to accomplish this successfully through various different clients and projects that have spanned different industries. 
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
