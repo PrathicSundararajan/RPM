@@ -1,4 +1,4 @@
-## Team Oracles Pitch to Rockwell Automation's Challenge
+## Pitch to Rockwell Automation's Challenge by Team Oracle
 
 ### Markdown
 
