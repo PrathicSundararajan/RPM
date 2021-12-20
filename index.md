@@ -39,33 +39,10 @@ Because our technology will be specifically targeted towards bettering the workf
 
 As mentioned previously, we will be marketing our device to Rockwell Automation and Sargento. The initial prize money and accompanying data will be used to fine tune and hone our models to fulfill the needs of our clients. Any remaining resources will be put towards developing advanced algorithms that are able to take our clients' workflows to the next level. 
 
+# Tell us your goals for the future of your business and what you see happening for your business in the coming years. What are you most excited about and where do you see potential risks?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Our company will continue working with our clients and developing models and algorithms to serve their needs. As our team grows, we will gain additional skillsets that can be used to answer questions that were previously unanswerable. All this will be possible through the use of shared client data. Using this data, we can develop analyses that will aid clients in marketing, workflow processes, and decision-making. However, all this rests on the assumption that our company has a steady access to processable data. But given the nature of novel technologies, which output massive amounts of data, we believe that our company is in the optimal position to aid any future clients.
 
-```markdown
-Syntax highlighted code block
+# How and when do you plan to exit your business? What do you see as your role in the business after you exit?
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/PrathicSundararajan/RPM/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+We do not see ourselves exiting any time in the near future.
