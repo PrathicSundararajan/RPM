@@ -1,4 +1,4 @@
-# Team Oracle's Pitch for Leveraging Raw Material Data for Prescriptive Manufacturing
+# Team Oracle's Pitch: Leveraging Raw Material Data for Prescriptive Manufacturing
 
 ## Team Summary 
 
