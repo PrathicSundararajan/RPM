@@ -1,3 +1,5 @@
+> This is a link to our pitch for 
+
 ## Team Summary 
 
 ### Introduce your company and how it will be presented to consumers. If your company is already established, please explain how the product/solution you are pitching for this challenge integrates into your current branding.
