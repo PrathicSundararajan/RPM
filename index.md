@@ -17,10 +17,10 @@ Prathic Sundararajan: Prathic is a senior in BME at Georgia Institute of Technol
 
 ## Product Summary 
 
-# Introduce your product and how it will be presented to consumers.
+### Introduce your product and how it will be presented to consumers.
 Our team recognizes the importance in not simply building ML models and pipelines but actually understanding the data being utilized. Additionally, we from the beginning aim to understand how best we can utilize the data and our ML pipeline to actually advance the companies strategies and improve their key performance indicators. Often times this is overlooked, and a lot of resources are wasted because a lot of exploratory stuff is done that doesn’t actually lead to actionable outcomes. 
 
-# Describe in detail the features of your product. What jobs do these features perform and what will be the experience of users? What features are unique to your product or competitive differentiators?
+### Describe in detail the features of your product. What jobs do these features perform and what will be the experience of users? What features are unique to your product or competitive differentiators?
 
 We will begin development on ML pipelines that our team has developed in house. The pipeline we start our work with will be purely dependent on the type of dataset received from our client in terms of the number of data points and different number of features. With this provided dataset, we will then begin fine tuning our model for specific application into this field. Additionally, it is at this stage we will reach consensus on key features and recommendations that hope to be derived from this data with our client. As an example, we can focus on optimizing for increasing quality of the product, increasing throughput, decreasing material variability, etc. These are features that can only be decided once the dataset is available and an initial exploratory analysis is done. 
 
@@ -28,21 +28,21 @@ Our product will be unique for a couple main reasons. Our team is a diverse one 
 
 ## Business Summary 
 
-# Describe your level of knowledge of the challenge landscape. What education and experiences have prepared your team to address this challenge?
+### Describe your level of knowledge of the challenge landscape. What education and experiences have prepared your team to address this challenge?
 We, as part of Delphi, have collaborated with many institutions in the past to create machine learning models and algorithms to aid in process workflows and data analysis. We worked with CarMax to develop models to predict customer retention and preferences based on different attributes. CarMax will use our models on their website to attract more customers. More recently, we developed machine learning models for the Department of Justice to predict criminal recidivism. The DOJ will put our models to use in order to predict individuals who are in higher need of rehabilitation services. Over the last year, Delphi and our collaborators, have pitched several technologies to well-known organizations like Georgia Institute of Technology, Mayo Clinic, and the U.S. Department of Education.
 
-# Describe your sales and marketing strategy, including details about branding and customer service. How do you plan to find and retain customers for your product?
+### Describe your sales and marketing strategy, including details about branding and customer service. How do you plan to find and retain customers for your product?
 
 Because our technology will be specifically targeted towards bettering the workflows at Rockwell Automation and Sargento, we will have a highly targeted marketing strategy. Hence, we will not have a public-facing marketing strategy. Branding and and further marketing decisions will be made in collaboration with Rockwell Automation and Sargento. 
 
-# Describe the market that you are targeting and how your product and business fit into it. Explain how you will be funding your business. How will you use initial prize money and how will you continue to fund and grow your business after winning Reverse Pitch MKE.
+### Describe the market that you are targeting and how your product and business fit into it. Explain how you will be funding your business. How will you use initial prize money and how will you continue to fund and grow your business after winning Reverse Pitch MKE.
 
 As mentioned previously, we will be marketing our device to Rockwell Automation and Sargento. The initial prize money and accompanying data will be used to fine tune and hone our models to fulfill the needs of our clients. Any remaining resources will be put towards developing advanced algorithms that are able to take our clients' workflows to the next level. 
 
-# Tell us your goals for the future of your business and what you see happening for your business in the coming years. What are you most excited about and where do you see potential risks?
+### Tell us your goals for the future of your business and what you see happening for your business in the coming years. What are you most excited about and where do you see potential risks?
 
 Our company will continue working with our clients and developing models and algorithms to serve their needs. As our team grows, we will gain additional skillsets that can be used to answer questions that were previously unanswerable. All this will be possible through the use of shared client data. Using this data, we can develop analyses that will aid clients in marketing, workflow processes, and decision-making. However, all this rests on the assumption that our company has a steady access to processable data. But given the nature of novel technologies, which output massive amounts of data, we believe that our company is in the optimal position to aid any future clients.
 
-# How and when do you plan to exit your business? What do you see as your role in the business after you exit?
+### How and when do you plan to exit your business? What do you see as your role in the business after you exit?
 
 We do not see ourselves exiting any time in the near future.
