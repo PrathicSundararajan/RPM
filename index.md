@@ -47,3 +47,5 @@ Our company will continue working with our clients and developing models and alg
 ### How and when do you plan to exit your business? What do you see as your role in the business after you exit?
 
 We do not see ourselves exiting any time in the near future.
+
+**Contact Info**: Prathic Sundararajan - prathic44@gmail.com
