@@ -2,7 +2,7 @@
 
 ## Team Summary 
 
-### Introduce your company and how it will be presented to consumers. If your company is created, please explain how the product/solution you are pitching for this challenge integrates into your current branding.
+### Introduce your company and how it will be presented to consumers. If your company is already established, please explain how the product/solution you are pitching for this challenge integrates into your current branding.
 Delphi, our company, is yet to be founded but we would focus on applying our skill set in Machine Learning and Data Analysis onto various fields through key partnerships that would offer domain knowledge. Our team in the past has been able to accomplish this successfully through various different clients and projects that have spanned different industries. 
 
 ### Explain the ownership structure of your company and how this will change over time. Who plays a key role in your company and what plans do you have to expand or change this over time?
